@@ -1,7 +1,7 @@
 # Amazing_Person_Detection_V2
 CPU Real-time Amazing Person Detection V2
 # FIND CODE  
-https://blog.csdn.net/samylee/article/details/112056728  
+https://blog.csdn.net/samylee/article/details/112837675  
 # Test steps
 Download 'third_part dll' and put it to current directory. [BaiDu Cloud](https://pan.baidu.com/s/1X9-pDypbj-TJMFxiSqow9A) Password: 4wpj  
 # Algorithm efficiency
