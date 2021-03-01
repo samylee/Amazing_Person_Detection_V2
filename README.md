@@ -10,8 +10,8 @@ Download 'third_part dll' and put it to current directory. [BaiDu Cloud](https:/
 | YOLO-V3-416x416  | 12x12 | 0.5729(thresh-0.5, IOU-0.5) |526ms/1.9|
 | ours  | 12x12 | 0.5712(thresh-0.6, IOU-0.5) |14ms/71.4|
 # Example result
-![image](https://github.com/samylee/Amazing_Person_Detection_V2/blob/main/results/timg6.jpg)
-![image](https://github.com/samylee/Amazing_Person_Detection_V2/blob/main/results/timg7.jpg)
-![image](https://github.com/samylee/Amazing_Person_Detection_V2/blob/main/results/timg8.jpg)
+![](results/timg6.jpg)
+![](results/timg7.jpg)
+![](results/timg8.jpg)
 # Reference
 https://blog.csdn.net/samylee
